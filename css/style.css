@@ -27,13 +27,13 @@ body {
 	padding: 0;
 }
 p {
-	color: #252525;
+	color: #4B371C;
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
 }
 p a {
-	color: #252525;
+	color: #4B371C;
 	text-decoration: underline;
 }
 p a:hover {
@@ -68,7 +68,7 @@ p a:hover {
 	padding: 0 19px;
 }
 #header ul li a {
-	color: #252525;
+	color: #4B371C;
 	display: inline-block;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 14px;
@@ -97,7 +97,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body h1 span {
-	background: #252525;
+	background: #4B371C;
 	display: inline-block;
 	padding: 15px 28px 12px;
 }
@@ -107,7 +107,7 @@ p a:hover {
 	width: 960px;
 }
 #body > div img {
-	border: 2px solid #292929;
+	border: 2px solid #4B371C;
 	margin:  50px 50px 0px ;
 	padding: auto ;
 	width: 850px;
@@ -124,13 +124,13 @@ p a:hover {
 	margin: 0 0 30px;
 }
 #body > div .article h3 {
-	color: #252525;
+	color: #4B371C;
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
 }
 #body > div .article h4 {
-	background: #252525;
+	background: #4B371C;
 	color: #fff;
 	display: inline-block;
 	font-family: "Arial Black", Gadget, sans-serif;
@@ -180,7 +180,7 @@ p a:hover {
 	width: 500px;
 }
 #body div ul li div h3 {
-	color: #252525;
+	color: #4B371C;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 25px;
 	font-weight: normal;
@@ -204,7 +204,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body div ul li div a.more:hover {
-	color: #252525;
+	color: #4B371C;
 	background: #fff;
 	border: 2px solid #252525;
 }
@@ -243,7 +243,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body #featured div span {
-	background: #252525;
+	background: #4B371C;
 	color: #fff;
 	display: inline-block;
 	font-size: 20px;
@@ -311,7 +311,7 @@ p a:hover {
 	width: 620px;
 }
 #body form input, #body form textarea {
-	border: 2px solid #252525;
+	border: 2px solid #4B371C;
 	color: #252525;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
@@ -328,7 +328,7 @@ p a:hover {
 	resize: none;
 }
 #body form #send {
-	background: #252525;
+	background: #4B371C;
 	color: #fff;
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 15px;
@@ -339,11 +339,11 @@ p a:hover {
 }
 #body form #send:hover {
 	background: #fff;
-	color: #252525;
+	color: #4B371C;
 	cursor: pointer;
 }
 #footer {
-	background: #252525;
+	background: #4B371C;
 	margin: 0;
 	padding: 36px 0 42px;
 }
